@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="836ead0c-9429-49b0-b9c1-fe07cd1dc84e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gh-db-installer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/ LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/config/users/connects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/connect/apiConnect/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/connect/connectController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/connect/connectFork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/connect/connectFunctions/app/firstConnect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/collection/collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/collection/crud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/collection/moreMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/df/df.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/df/dirFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/controllers/df/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/function_json/deleteElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/function_json/getElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/function_json/pushElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/function_json/readJson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/function_json/writeJson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/collections_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/createCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/functions/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/functions/getElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/functions/update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/libraries/fs-rd-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/libraries/fs-rw-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/libraries/getCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_collections/removeCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/createDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/createFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/readFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/removeDir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/removeFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/functions_df/writeFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/gh-db.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/routes/collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/routes/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/routes/file_sistem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/gh-db/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/configMaster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/installer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stop/fatal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stop/success.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibJILqeqErgHvubC023PJYnGiB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836ead0c-9429-49b0-b9c1-fe07cd1dc84e" name="Default Changelist" comment="" />
+      <created>1602170277131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602170277131</updated>
+      <workItem from="1602170278263" duration="7575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

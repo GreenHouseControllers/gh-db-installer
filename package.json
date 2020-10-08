@@ -1,0 +1,32 @@
+{
+  "name": "gh-db-installer",
+  "version": "1.3.0",
+  "description": "This module helps you to install the gh-db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenHouseControllers/gh-db-installer.git"
+  },
+  "keywords": [
+    "gh-db",
+    "install",
+    "installer",
+    "database",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Strizhkov Glab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenHouseControllers/gh-db-installer/issues"
+  },
+  "homepage": "https://github.com/GreenHouseControllers/gh-db-installer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "path": "^0.12.7"
+  }
+}
